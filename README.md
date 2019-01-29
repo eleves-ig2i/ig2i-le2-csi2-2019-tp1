@@ -1,1 +1,3 @@
-# ig2i-le2-csi2-2019-tp1
+LE2 - CSI 2 - TP1
+-----------------
+Environ 90 requêtes SQL et autant de captures d'écran à effectuer => un TP intéressant
